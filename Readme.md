@@ -4,7 +4,7 @@
 Sistema de Gestión Empresarial: Contaduría, Inventario y Facturación Electrónica para Tiendas Online.
 
 
-## Autores
+## Autores.
 
 - Marlon David Martínez Montoya MM210981 G01T 
 - Karla Elizabeth Murillo Urrutia MU192557 G01T
