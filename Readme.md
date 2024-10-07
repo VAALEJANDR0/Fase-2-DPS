@@ -8,7 +8,7 @@ Sistema de Gestión Empresarial: Contaduría, Inventario y Facturación Electró
 
 - Marlon David Martínez Montoya MM210981 G01T 
 - Karla Elizabeth Murillo Urrutia MU192557 G01T
-- Gabriela Lourde Rodriguez Parada RP210191 G01T 
+- Gabriela Lourdes Rodriguez Parada RP210191 G01T 
 - Jessica Abigail Rodríguez Torres RT200479 G01T
 - Roberto Alejandro Ventura Alvarenga VA210756 G01T 
 
@@ -24,7 +24,7 @@ La licenciante no puede revocar estas libertades en tanto usted siga los términ
 
 ## Otros
 - Manual de usuario: [https://drive.google.com/file/d/1iAh8w-z7Y0VGu-4T2ICs0tUcO-Nm9d-L/view?usp=sharing]
-- Manual técnico: []
+- Manual técnico: [https://drive.google.com/file/d/1lCV_UF54p4KfNNSJrWvlMwPGuEaQrZsn/view?usp=sharing]
 - Fase 1: [https://drive.google.com/file/d/1_cQx3QLzseb-qswbFlGN5QlcvNV-GjJB/view?usp=sharing]
 - Taiga: [https://tree.taiga.io/project/gaurezzz-tienda-online-con-contaduria-e-inventario-integrados/timeline]
 - Mock Ups: [https://drive.google.com/drive/folders/1imNYo7qu9C-dY5obPc7pdLJQPpyrCMWz?usp=sharing]
