@@ -1,5 +1,5 @@
 
-# Proyecto DPS
+# Proyecto DPS.
 
 Sistema de Gestión Empresarial: Contaduría, Inventario y Facturación Electrónica para Tiendas Online.
 
